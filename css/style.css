@@ -1,0 +1,40 @@
+.navbar-nav{
+    font-family: monospace;
+    font-size:larger;
+    font-weight: bold;
+}
+.errorClass{
+    border: 1px solid red;
+}
+
+.section a{
+    font-size: larger;
+    margin-right: 30px;
+}
+
+.jumbotron {
+    margin:0;
+}
+
+.project img{
+    border: 5px solid rgb(240, 235, 235);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.team .team-links{
+    float: right;
+    width: 60%;
+}
+.myprogress .container{
+    width: 50%;
+    
+}
+.myprogress .progress{
+    margin-bottom: 50px;
+
+}
+
+.container form{
+    width: 50%;
+    margin-bottom: 60px;
+}
